@@ -1,0 +1,2 @@
+CREATE DATABASE favorite_foods_test;
+CREATE DATABASE favorite_foods_development;
